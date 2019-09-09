@@ -1,12 +1,10 @@
-# udacity-blog-project
-
-README.md - SF Airbnb Data Analysis
+README.md - SF Airbnb Data Analyses
 
 
 ## 
 **Project Title**
 
-This is a Udacity Data Science Course project. 
+SF Airbnb Data Analyses -  Udacity Blog Post Project 
 
 
 ## 
