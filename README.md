@@ -30,7 +30,7 @@ Below are my research questions I tried to answer using data from Airbnb listing
 
 **Dataset used:**
 
-San Francisco Airbnb listings and reviews data compiled on 8/6/2019
+San Francisco Airbnb listings and reviews data compiled on 8/6/2019 (available at http://insideairbnb.com/get-the-data.html).
 
 **Analyses used:**
 
