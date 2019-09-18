@@ -34,7 +34,7 @@ San Francisco Airbnb listings and reviews data compiled on 8/6/2019 (available a
 
 **Analyses used:**
 
-Descriptive, regression, and classification analyses
+Descriptive, regression, classification, and text analyses
 
 
 ## 
