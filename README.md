@@ -26,11 +26,11 @@ Below are my research questions I tried to answer using data from Airbnb listing
 4. Are there any gender differences in review writing behavior?
 5. What are the most common words people say in their reviews?
 
-**Dataset used:**
+**Dataset Used:**
 
 San Francisco Airbnb listings and reviews data compiled on 8/6/2019 (available at http://insideairbnb.com/get-the-data.html).
 
-**Analyses used:**
+**Analyses Used:**
 
 Descriptive, regression, classification, and text analyses
 
