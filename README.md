@@ -35,8 +35,7 @@ San Francisco Airbnb listings and reviews data compiled on 8/6/2019 (available a
 Descriptive, regression, classification, and text analyses
 
 
-## 
-**Dependencies and Installation**
+## **Dependencies and Installation**
 
 You need to install the following python, nlp, and visualization packages and libraries:
 
