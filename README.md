@@ -2,7 +2,7 @@ README.md - SF Airbnb Data Analyses
 
 
 ## 
-**Project Title**
+***Project Title***
 
 SF Airbnb Data Analyses -  Udacity Blog Post Project 
 
