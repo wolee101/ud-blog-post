@@ -3,11 +3,10 @@ README.md - SF Airbnb Data Analyses
 
 ## **Project Title**
 
-SF Airbnb Data Analyses -  Udacity Blog Post Project 
+**SF Airbnb Data Analyses -  Udacity Blog Post Project **
 
 
-## 
-**Description**
+## **Description**
 
 According to statistics available on Google, there are 150 million Airbnb users that can choose from 1.9 million listings in 65,000 cities around the world at any given time. I myself have tried to use Airbnb once but the host ended up cancelling the day I was checking in because the place had not yet been cleaned. It was an extremely unpleasant experience but I decided not to post a negative review. However, this made me become curious about the characteristics of properties and their hosts, as well as the validity of reviews. I also became interested in finding out how many negative reviews were actually posted.
 
