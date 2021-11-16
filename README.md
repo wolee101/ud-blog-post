@@ -22,9 +22,11 @@ Below are my research questions I tried to answer using data from Airbnb listing
 
 1. What are the characteristics of Airbnb listings in San Francisco?
 2. What are the differences between listings owned by superhosts and non-superhosts?
-3. What is the average review score?** **What percentage of reviews are positive or negative?
-4. Are there any gender differences in review writing behavior?
-5. What are the most common words people say in their reviews?
+3. What is the average review score?
+4. What percentage of reviews are positive or negative?
+5. Are there any gender differences in review writing behavior?
+6. What are the most common words people say in their reviews?
+
 
 **Dataset Used:**
 
