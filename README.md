@@ -50,6 +50,11 @@ You need to install the following python, nlp, and visualization packages and li
 *   matplot: pip install matplotlib
 *   seaborn: pip install seaborn
 
+To start a live Jupyter session without installing dependencies, click the Binder link button below. 
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wolee101/ud-blog_post/master?labpath=Airbnb_data_analysis.ipynb)
+
 
 ## **Acknowledgments**
 
@@ -60,6 +65,5 @@ You need to install the following python, nlp, and visualization packages and li
 *   Christhian Boujon’s github code on the top n number: [https://gist.github.com/CristhianBoujon/c719ba2287a630a6d3821d37a9608ac8](https://gist.github.com/CristhianBoujon/c719ba2287a630a6d3821d37a9608ac8)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wolee101/ud-blog_post/master?labpath=Airbnb_data_analysis.ipynb)
 
 <!-- Docs to Markdown version 1.0β17 -->
