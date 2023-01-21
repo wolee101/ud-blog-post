@@ -12,7 +12,7 @@ According to statistics available on Google, there are 150 million Airbnb users 
 
 Because I live in the Bay area I chose to look at San Francisco to find the answers to my questions. The city does not represent all Airbnb listings nor reviews. This is just a project meant to satisfy my curiosity and to conduct some analysis on one of the most visited cities in the United States.
 
- 
+
 
 Below are my research questions I tried to answer using data from Airbnb listings and reviews in San Francisco.
 
@@ -41,19 +41,24 @@ Descriptive, regression, classification, and text analyses
 You need to install the following python, nlp, and visualization packages and libraries:
 
 
-
-*   scikit-learn: pip install scikit-learn
-*   nltk: pip install nltk 
-*   nltk stopwords: nltk.download (‘stopwords’) in jupyter notebook
+*   pandas: pip install pandas
+*   numpy: pip install numpy
+*   nltk: pip install nltk
+  -   nltk stopwords: nltk.download (‘stopwords’) in jupyter notebook
+  -   nltk sentiment lexicon: nltk.download (‘vader_lexicon’) in jupyter notebook
 *   gender guesser: pip install gender_guesser.detector
-*   language detector: pip install spacy-langdetect
+*   scikit-learn: pip install scikit-learn
+*   gensim: pip install gensim
+*   spacy: pip install spacy
+  -   language detector: pip install spacy-langdetect
 *   matplot: pip install matplotlib
 *   seaborn: pip install seaborn
+*   mapply: pip install mapply
 
-To start a live Jupyter session without installing dependencies, click the Binder link button below. 
+To start a live Jupyter session without installing dependencies, click the Binder link button below.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wolee101/ud-blog_post/master?labpath=Airbnb_data_analysis.ipynb)
+[!Binder](https://binder.gsbdarc.com/v2/gh/wolee101/ud-blog_post/master?labpath=Airbnb_data_analysis.ipynb)
 
 
 ## **Acknowledgments**
