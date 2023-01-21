@@ -1,4 +1,4 @@
-ipython[all]>=3.2.0
+Python >=3.8
 pandas == 1.5.2
 numpy  == 1.23.5
 nltk == 3.8.1
