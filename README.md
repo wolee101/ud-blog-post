@@ -43,17 +43,18 @@ You need to install the following python, nlp, and visualization packages and li
 
 *   pandas: pip install pandas
 *   numpy: pip install numpy
-*   nltk: pip install nltk
-    -   nltk stopwords: nltk.download (‘stopwords’) in jupyter notebook
-    -   nltk sentiment lexicon: nltk.download (‘vader_lexicon’) in jupyter notebook
+*   mapply: pip install mapply
 *   gender guesser: pip install gender_guesser.detector
 *   scikit-learn: pip install scikit-learn
 *   gensim: pip install gensim
 *   spacy: pip install spacy
     -   language detector: pip install spacy-langdetect
+*   nltk: pip install nltk
+    -   nltk stopwords: nltk.download (‘stopwords’) in jupyter notebook
+    -   nltk sentiment lexicon: nltk.download (‘vader_lexicon’) in jupyter notebook
 *   matplot: pip install matplotlib
 *   seaborn: pip install seaborn
-*   mapply: pip install mapply
+
 
 To start a live Jupyter session without installing dependencies, click the Binder link button below.
 
