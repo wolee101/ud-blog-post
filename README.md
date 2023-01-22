@@ -44,13 +44,13 @@ You need to install the following python, nlp, and visualization packages and li
 *   pandas: pip install pandas
 *   numpy: pip install numpy
 *   nltk: pip install nltk
-&ensp; * nltk stopwords: nltk.download (‘stopwords’) in jupyter notebook
-&ensp; * nltk sentiment lexicon: nltk.download (‘vader_lexicon’) in jupyter notebook
+    -   nltk stopwords: nltk.download (‘stopwords’) in jupyter notebook
+    -   nltk sentiment lexicon: nltk.download (‘vader_lexicon’) in jupyter notebook
 *   gender guesser: pip install gender_guesser.detector
 *   scikit-learn: pip install scikit-learn
 *   gensim: pip install gensim
 *   spacy: pip install spacy
-&ensp; * language detector: pip install spacy-langdetect
+    -   language detector: pip install spacy-langdetect
 *   matplot: pip install matplotlib
 *   seaborn: pip install seaborn
 *   mapply: pip install mapply
