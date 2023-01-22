@@ -58,7 +58,7 @@ You need to install the following python, nlp, and visualization packages and li
 To start a live Jupyter session without installing dependencies, click the Binder link button below.
 
 
-[!Binder](https://binder.gsbdarc.com/v2/gh/wolee101/ud-blog_post/master?labpath=Airbnb_data_analysis.ipynb)
+[![Binder](http://34.94.204.67/badge_logo.svg)](https://binder.gsbdarc.com/v2/gh/wolee101/ud-blog_post/master?labpath=Airbnb_data_analysis.ipynb)
 
 
 ## **Acknowledgments**
